@@ -25,6 +25,13 @@ Let's make it easy! Just download this template, use it on your project.
 - and more ...
 # Report Some Bugs
 Find a Bug? Please, [create an issue](https://github.com/Sakshamoo17/login_form/issues) and we'll fix it together for a better template.
+# Contribution
+Contribution are always welcome and recommended! Here is how:
+
+- Fork the repository ([here is the guide](https://help.github.com/articles/fork-a-repo/)).
+- Clone to your machine git clone https://github.com/YOUR_USERNAME/login_form.git
+- Make your changes
+- Create a pull request
 
 # Changelogs
 ### Aug 29, 2017
