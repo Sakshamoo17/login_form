@@ -6,7 +6,7 @@ Bootstrap 4 Login Page Template
 
 My Login is a Bootstrap 4 Login Page Snippet, you can use it as you wish and it's free for personal or commercial use.
 
-![Preview](https://github.com/Sakshamoo17/login_form/blob/master/log in.png)
+![Preview](https://github.com/Sakshamoo17/login_form/blob/master/log%20in.png)
 
 # Installation
 Let's make it easy! Just download this template, use it on your project.
