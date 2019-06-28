@@ -23,3 +23,16 @@ Let's make it easy! Just download this template, use it on your project.
 - Cross-browser compatibility (Chrome, Firefox, Opera, IE11, Safari)
 - Fully responsive
 - and more ...
+# Report Some Bugs
+Find a Bug? Please, [create an issue](https://github.com/Sakshamoo17/login_form/issues) and we'll fix it together for a better template.
+
+# Changelogs
+### Aug 29, 2017
+  **Added**
+  * Verified by W3C
+  * Bootstrap 4 Validation Form
+
+  **Updated**
+  * Bootstrap 4 Version
+
+
